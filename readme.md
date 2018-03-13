@@ -42,8 +42,8 @@ Does not break.
 
 #### Cookies disabled
 Problems
-- When using AdBlock, the `ads/social media` are visible when Cookies are disabled. Which is very strange...
+- When using AdBlock, the `ads/social media components` are visible when Cookies are disabled. Which is very strange...
 
-![hoornonderneemt, ads/social media visible when cookies are disabled](readme-content/hoornonderneemt_ads.png)
+![hoornonderneemt, ads/social media components are visible when cookies are disabled](readme-content/hoornonderneemt_ads.png)
 
 #### Bandwidth limit

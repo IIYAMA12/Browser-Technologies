@@ -6,6 +6,12 @@
 <!-- - [Bandwidth limit](#bandwidthlimit) -->
 
 
+## Cookies Firefox
+This is the Firefox 58.0.2 cookie settings area.
+
+![Firefox cookie settings](readme-content/cookies_firefox.png)
+After disabling and enabling the cookie setting, I noticed that the Firefox browser has a separated setting for third party cookies, which I wasn't aware of. This setting should block those third party cookies that are often used by ads. It should also prevent 
+
 ## Testing
 
 ### Test 1 (PC wereld)
@@ -34,7 +40,7 @@ See value of `PHPSESSID` in the cookie list
 
 #### Bandwidth limit
 
-Does not break.
+Doesn't break.
 
 
 ### Test 2 (hoornonderneemt)
@@ -47,3 +53,7 @@ Problems
 ![hoornonderneemt, ads/social media components are visible when cookies are disabled](readme-content/hoornonderneemt_ads.png)
 
 #### Bandwidth limit
+
+Doesn't break.
+
+### Test 3
